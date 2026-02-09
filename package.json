@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^4.1.0",
+    "@types/pg": "^8.15.5",
+    "hardhat": "^2.26.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0",
+    "next": "^15.4.2-canary.35",
+    "pg": "^8.16.3"
+  }
+}
